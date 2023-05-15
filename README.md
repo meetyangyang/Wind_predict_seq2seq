@@ -25,4 +25,5 @@ wind.ipynb:风功率预测训练代码<br><br>
 准确率采取1-均方根误差，其中验证集最好准确率为94%，可视化预测值与真实值曲线如下：<br>
 ![](https://github.com/LeslieZhoa/Wind_predict_seq2seq/blob/master/img/show.png)
 # 参考文献
-[Sutskever I, Vinyals O, Le Q V. Sequence to Sequence Learning with Neural Networks[J]. 2014, 4:3104-3112.](http://xueshu.baidu.com/s?wd=paperuri%3A%28e9aa7b19ac49e6698424e934d418e05b%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1409.3215&ie=utf-8&sc_us=5597873999363172369)
+[Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. Advances in neural information processing systems, 27.](https://proceedings.neurips.cc/paper_files/paper/2014/hash/a14ac55a4f27472c5d894ec1c3c743d2-Abstract.html)
+[Yang, Y., Lang, J., Wu, J., Zhang, Y., Su, L., & Song, X. (2022). Wind speed forecasting with correlation network pruning and augmentation: A two-phase deep learning method. Renewable Energy, 198, 267-282.](https://www.sciencedirect.com/science/article/pii/S0960148122011351)
